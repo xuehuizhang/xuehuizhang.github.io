@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-13T05:59:06.498Z</updated>
+  <updated>2018-08-19T04:00:23.759Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Solidity语法--函数的调用方式和可见性</title>
+    <link href="http://yoursite.com/Solidity%E8%AF%AD%E6%B3%95.html"/>
+    <id>http://yoursite.com/Solidity语法.html</id>
+    <published>2018-08-19T04:52:29.000Z</published>
+    <updated>2018-08-19T04:00:23.759Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Solidity语法–函数的调用方式和可见性"><a href="#Solidity语法–函数的调用方式和可见性" class="headerlink" title="Solidity语法–函数的调用方式和可见性"></a>Solidity语法–函数的调用方式和可见性</h3><p>1，函数的调用方式</p><pre><code>Solidity语言中有两种函数的调用方式：internal和external</code></pre><p>代码案例：</p><p><img src="E:\MyBlog\source\img\1534650541.jpg" alt=""></p><p>说明：internal这里为访问修饰符，只能以internal的方式进行调用，external也为访问修饰符，只能以external的方式进行调用。</p><p>2，函数的可见性：public   internal    private  external</p><table><thead><tr><th></th><th>可见性</th><th>访问方式</th></tr></thead><tbody><tr><td>public</td><td>父/子合约</td><td>internal/external</td></tr><tr><td>internal</td><td>父/子合约</td><td>internal</td></tr><tr><td>external</td><td>父/子合约</td><td>external</td></tr><tr><td>private</td><td>父</td><td>internal</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Solidity语法–函数的调用方式和可见性&quot;&gt;&lt;a href=&quot;#Solidity语法–函数的调用方式和可见性&quot; class=&quot;headerlink&quot; title=&quot;Solidity语法–函数的调用方式和可见性&quot;&gt;&lt;/a&gt;Solidity语法–函数的调用方式和可
+      
+    
+    </summary>
+    
+      <category term="Solidity" scheme="http://yoursite.com/categories/Solidity/"/>
+    
+    
+      <category term="Solidity" scheme="http://yoursite.com/tags/Solidity/"/>
+    
+  </entry>
   
   <entry>
     <title>一步步教你SSM整合</title>
