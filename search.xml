@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title><![CDATA[Solidity语法--函数的调用方式和可见性]]></title>
-    <url>%2FSolidity%E8%AF%AD%E6%B3%95.html</url>
+    <url>%2FSolidity%E8%AF%AD%E6%B3%95--%E8%B0%83%E7%94%A8%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8F%AF%E8%A7%81%E6%80%A7.html</url>
     <content type="text"><![CDATA[Solidity语法–函数的调用方式和可见性1，函数的调用方式 Solidity语言中有两种函数的调用方式：internal和external 代码案例： 说明：internal这里为访问修饰符，只能以internal的方式进行调用，external也为访问修饰符，只能以external的方式进行调用。 2，函数的可见性：public internal private external 可见性 访问方式 public 父/子合约 internal/external internal 父/子合约 internal external 父/子合约 external private 父 internal]]></content>
       <categories>
         <category>Solidity</category>
