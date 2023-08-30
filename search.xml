@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2023/08/24/hello-world/</url>
+    <url>/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="highlight"><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre>
 
@@ -20,15 +20,21 @@
   </entry>
   <entry>
     <title>tags</title>
-    <url>/2023/08/28/tags/</url>
+    <url>/tags/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>next设置</title>
-    <url>/2023/08/27/next%E8%AE%BE%E7%BD%AE/</url>
+    <url>/next%E8%AE%BE%E7%BD%AE/</url>
     <content><![CDATA[<h3 id="一条select语句的执行过程"><a href="#一条select语句的执行过程" class="headerlink" title="一条select语句的执行过程"></a>一条select语句的执行过程</h3>]]></content>
       <tags>
         <tag>mysql</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>gmp调度模型</title>
+    <url>/golang/gmp%E8%B0%83%E5%BA%A6%E6%A8%A1%E5%9E%8B/</url>
+    <content><![CDATA[<p><img  srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" data-src="/images/1.png" class="lozad post-image"src="/images/1.png"></p>
+]]></content>
   </entry>
 </search>
